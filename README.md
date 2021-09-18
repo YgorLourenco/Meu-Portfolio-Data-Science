@@ -15,9 +15,9 @@ Recentemente após ter terminado a minha graduação de Gestão da Informação(
 
 ## Projetos de Data Science
 
-* **PROJETO 1:** [Nome do Projeto 1](https://github.com/YgorLourenco)
-* **PROJETO 2:**  [Nome do Projeto 2](https://github.com/YgorLourenco)
-* **PROJETO 3:**  [Doenças Cardiovasculares no Brasil e no Mundo](https://github.com/YgorLourenco)
+* [**Análise dos Dados do Airbnb - Porto, Norte, Portugal**](https://github.com/YgorLourenco/Meu-Protfolio-Data-Science/blob/main/Analisando_os_Dados_do_Airbnb_Porto%2C_Norte%2C_Portugal.ipynb)
+* [**Analisando a Violência no Rio de Janeiro**](https://github.com/YgorLourenco/Meu-Protfolio-Data-Science/blob/main/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro(07_09_21).ipynb)
+* [**Doenças Cardiovasculares no Brasil e no Mundo**](https://github.com/YgorLourenco/Meu-Protfolio-Data-Science/blob/main/%5BPROJETO%5D_Doen%C3%A7as_Cardiovasculares_no_Mundo_e_no_Brasil_v2(18_09_2021).ipynb)
 
 ---
 
