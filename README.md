@@ -19,6 +19,8 @@ Recentemente após ter terminado a minha graduação de Gestão da Informação(
 * [**Analisando a Violência no Rio de Janeiro**](https://github.com/YgorLourenco/Meu-Protfolio-Data-Science/blob/main/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro(07_09_21).ipynb)
 * [**Doenças Cardiovasculares no Brasil e no Mundo**](https://github.com/YgorLourenco/Meu-Protfolio-Data-Science/blob/main/%5BPROJETO%5D_Doen%C3%A7as_Cardiovasculares_no_Mundo_e_no_Brasil_v2(18_09_2021).ipynb)
 * [**Detecção de Fraudes em Cartões de Crédito**](https://github.com/YgorLourenco/Meu-Portfolio-Data-Science/blob/main/Projeto_Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito(05_10_21).ipynb)
+* [**Detecção de Fraudes em Cartões de Crédito da Nubank**](https://colab.research.google.com/drive/1-iGVHaZGPyHaB_lx9txN5XvykkI3MOi1?usp=sharing)
+
 
 ---
 
