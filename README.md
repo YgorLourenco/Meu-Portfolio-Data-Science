@@ -20,6 +20,7 @@ Recentemente após ter terminado a minha graduação de Gestão da Informação(
 * [**Doenças Cardiovasculares no Brasil e no Mundo**](https://github.com/YgorLourenco/Meu-Protfolio-Data-Science/blob/main/%5BPROJETO%5D_Doen%C3%A7as_Cardiovasculares_no_Mundo_e_no_Brasil_v2(18_09_2021).ipynb)
 * [**Detecção de Fraudes em Cartões de Crédito**](https://github.com/YgorLourenco/Meu-Portfolio-Data-Science/blob/main/Projeto_Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito(05_10_21).ipynb)
 * [**Detecção de Fraudes em Cartões de Crédito da Nubank**](https://colab.research.google.com/drive/1-iGVHaZGPyHaB_lx9txN5XvykkI3MOi1?usp=sharing)
+* [**Projeto de Analise Exploratória e Predição no uso de pesticidas em colheitas**](https://colab.research.google.com/drive/1jvnVVUSN7shOsXCKAH0WyqjBSi6M0LHg?usp=sharing)
 
 
 ---
